@@ -3,6 +3,7 @@
 Problem Definition: To detect whether a patient is likely to have Diabetes based on other contributing factors. (Binary Classification)
 
 Steps Taken:
+
 -Loading the data for exploration and visualization. 
 -Building the structure of network.
 -Compiling the model, specifying loss function, metrics, and optimizer (which includes the learning rate).
